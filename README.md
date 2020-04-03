@@ -1,2 +1,0 @@
-# Radixx
-iOS dev
